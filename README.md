@@ -1,5 +1,5 @@
 - 👋 Hi!
--    I’m AAl2024!
+- 👋 I’m AAl2024!
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on ...
